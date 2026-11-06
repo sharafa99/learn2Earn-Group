@@ -1,0 +1,51 @@
+{
+    "1": {
+        "Date Created": "2026-10-16",
+        "Title": "Learning python",
+        "Priority": "High",
+        "Due Date": "2027-01-30",
+        "Completed": true
+    },
+    "2": {
+        "Date Created": "2026-10-16",
+        "Title": "Learning AWS",
+        "Priority": "medium",
+        "Due Date": "2027-01-30",
+        "Completed": false
+    },
+    "3": {
+        "Date Created": "2026-10-16",
+        "Title": "learning ludo game",
+        "Priority": "low",
+        "Due Date": "2026-11-25",
+        "Completed": true
+    },
+    "5": {
+        "Date Created": "2026-10-18",
+        "Title": "Learning how to play chess",
+        "Priority": "medium",
+        "Due Date": "2027-05-15",
+        "Completed": true
+    },
+    "6": {
+        "Date Created": "2026-10-19",
+        "Title": "learning how to cook",
+        "Priority": "medium",
+        "Due Date": "2027-01-01",
+        "Completed": true
+    },
+    "9": {
+        "Date Created": "2026-10-19",
+        "Title": "learn driving",
+        "Priority": "high",
+        "Due Date": null,
+        "Completed": true
+    },
+    "10": {
+        "Date Created": "2026-11-03",
+        "Title": "learning how to swim",
+        "Priority": "Low",
+        "Due Date": null,
+        "Completed": false
+    }
+}
