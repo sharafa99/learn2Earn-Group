@@ -1,0 +1,194 @@
+                              START
+                                │
+                                ▼
+                         Welcome ASCII Art
+                                │
+                                ▼
+                           MAIN MENU
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+                ▼               ▼               ▼
+           PLAY GAME       HIGH SCORES        EXIT
+                │               │
+                ▼               │
+            Get Name            │
+                │               │
+                ▼               │
+         Select Subject         │
+                │               │
+                ▼               │
+       Select Difficulty        │
+                │               │
+                ▼               │
+        Get Question Pool       │
+                │               │
+                ▼               │
+       Select Required Number   │
+                │               │
+                ▼               │
+       Randomize Questions      │
+                │               │
+                ▼               │
+          START QUIZ            │
+                │               │
+                ▼               │
+       ┌────────────────┐       │
+       │ Display        │       │
+       │ question       │       │
+       │                │       │
+       │ Shuffle options│       │
+       │                │       │
+       │ Get A/B/C/D    │       │
+       │                │       │
+       │ Validate       │       │
+       │                │       │
+       │ Check answer   │       │
+       │                │       │
+       │ Update score   │       │
+       └───────┬────────┘       │
+               │                │
+         More questions?        │
+          │          │          │
+         YES         NO         │
+          │          │          │
+          └────┐     ▼          │
+               │  Calculate     │
+               │  result        │
+               │     │          │
+               │     ▼          │
+               │  Check         │
+               │  High Score    │
+               │     │          │
+               │     ▼          │
+               │  Save Score    │
+               │     │          │
+               │     ▼          │
+               │  Results       │
+               │     │          │
+               │     ▼          │
+               │  ┌──────────┐  │
+               │  │Play Again│  │
+               │  │Main Menu │  │
+               │  │Exit      │  │
+               │  └──────────┘  │
+               │                │
+               └────────────────┘
+
+-------------------------------------------------------------------
+
+questions
+│
+├── Mathematics
+│   ├── Easy
+│   │   ├── question
+│   │   ├── question
+│   │   └── ...
+│   │
+│   ├── Medium
+|   |   ├── question
+│   │   ├── question
+│   │   └── ...
+|   |
+│   |── Hard
+|   |   ├── question
+│   │   ├── question
+│   │   └── ...
+│
+├── English
+│   ├── Easy
+│   ├── Medium
+│   └── Hard
+│
+└── Physics
+    ├── Easy
+    ├── Medium
+    └── Hard
+-------------------------------------------------------------------
+
+╔══════════════════════════════════════╗
+║                                      ║
+║             QUIZ MASTER              ║
+║                                      ║
+║        Test Your Knowledge!          ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+1. Play Game
+2. View High Scores
+3. Exit
+
+Choose an option:
+
+-------------------------------------------------------------------
+
+Enter your name:
+
+-------------------------------------------------------------------
+
+SELECT SUBJECT
+
+1. Mathematics
+2. English
+3. Physics
+4. All Subjects
+
+Choose a subject:
+
+-------------------------------------------------------------------
+
+SELECT DIFFICULTY
+
+1. Easy     - 5 questions
+2. Medium   - 10 questions
+3. Hard     - 15 questions
+
+Choose difficulty:
+
+-------------------------------------------------------------------
+
+================================
+        PYTHON QUIZ GAME
+================================
+
+Question 1 of 5
+
+What is 2 + 2?
+
+1. 3
+2. 4
+3. 5
+4. 6
+
+Your answer:
+
+-------------------------------------------------------------------
+
+══════════════════════════════════
+          QUIZ COMPLETE!
+══════════════════════════════════
+
+Player: Abdulrahman
+Subject: Mathematics
+Difficulty: Easy
+
+Correct: 4
+Wrong:   1
+
+Score:   80%
+Time:    42 seconds
+
+══════════════════════════════════
+
+1. Play Again
+2. Main Menu
+3. Exit
+
+-------------------------------------------------------------------
+EASY HIGH SCORES
+
+1. Abdulrahman   100%   Mathematics
+2. Sarah          90%   All Subjects
+3. David          85%   Physics
+4. John            80%   English
+5. Michael         75%   Mathematics
